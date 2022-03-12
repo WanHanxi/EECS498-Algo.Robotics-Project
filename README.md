@@ -4,6 +4,8 @@ Final Project
 
 Localization: Kalman Filter and Particle Filter
 
+Cooperate with [Che Chen](https://github.com/TomCC7)
+
 # Introduction
 
 In localization problems, we want to know the current state (position, orientation, etc.) of objects
