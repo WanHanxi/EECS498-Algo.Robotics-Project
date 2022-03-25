@@ -14,10 +14,12 @@ processed to generate closer estimate of the state. Kalman filter and particle f
 applied in this project to track the state of objects. Given indirect measurable variables (data from
 sensors), these two methods can give an estimate on the state which can not be directly measured
 (actual position, etc.).
+
 The localization problems are widely seen and thus are of great significance. Robots need to be
 informed of its pose in the environment to carry out tasks. When driving, the navigators need to
 know the precise location of our vehicles. Filters can be applied to data from GPS and gyroscopes
 to reduce error.
+
 The objective of this project is to compare the performances of Kalman filter and particle filter
 in the same scenario. A PR2 robot is executed to go through a path in an environment with
 obstacles and a location sensor is simulated to give the position of the robot with random error.
