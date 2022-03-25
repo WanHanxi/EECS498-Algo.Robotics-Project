@@ -1,8 +1,8 @@
 [EECS 498: Introduction to Algorithmic Robotics Fall 2021](https://web.eecs.umich.edu/~dmitryb/courses/fall2021iar/index.html)
 
-Final Project
+Final Project - Localization: Kalman Filter and Particle Filter
 
-Localization: Kalman Filter and Particle Filter
+Comparison between Kalman filter and particle filter on robot localization in a simulated scenario.
 
 Cooperate with [Che Chen](https://github.com/TomCC7)
 
