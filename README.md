@@ -32,3 +32,6 @@ Their accuracy will be compared.
 pip install -r requirements.txt
 python run.py
 ```
+
+# Report
+[pdf](https://github.com/WanHanxi/EECS498-Algo.Robotics-Project/blob/main/Report/main.pdf)
